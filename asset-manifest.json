@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/audioplay/static/css/main.5f361e03.chunk.css",
+    "main.js": "/audioplay/static/js/main.5c332ae4.chunk.js",
+    "main.js.map": "/audioplay/static/js/main.5c332ae4.chunk.js.map",
+    "runtime-main.js": "/audioplay/static/js/runtime-main.87b165a9.js",
+    "runtime-main.js.map": "/audioplay/static/js/runtime-main.87b165a9.js.map",
+    "static/js/2.83511e14.chunk.js": "/audioplay/static/js/2.83511e14.chunk.js",
+    "static/js/2.83511e14.chunk.js.map": "/audioplay/static/js/2.83511e14.chunk.js.map",
+    "index.html": "/audioplay/index.html",
+    "precache-manifest.caf336ab3df9fc6d29894907449070fd.js": "/audioplay/precache-manifest.caf336ab3df9fc6d29894907449070fd.js",
+    "service-worker.js": "/audioplay/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/audioplay/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.83511e14.chunk.js.LICENSE.txt": "/audioplay/static/js/2.83511e14.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/audioplay/static/media/img1.441a91a4.jpg",
+    "static/media/img10.jpg": "/audioplay/static/media/img10.0a12c354.jpg",
+    "static/media/img2.jpg": "/audioplay/static/media/img2.fddcd714.jpg",
+    "static/media/img3.jpg": "/audioplay/static/media/img3.1fe82a14.jpg",
+    "static/media/img4.jpg": "/audioplay/static/media/img4.b3d81d9a.jpg",
+    "static/media/img5.jpg": "/audioplay/static/media/img5.d4faa9cf.jpg",
+    "static/media/img6.jpg": "/audioplay/static/media/img6.08aca987.jpg",
+    "static/media/img7.jpg": "/audioplay/static/media/img7.32d686c6.jpg",
+    "static/media/img8.jpg": "/audioplay/static/media/img8.8ad2c375.jpg",
+    "static/media/img9.jpg": "/audioplay/static/media/img9.3734bcf0.jpg",
+    "static/media/logo.svg": "/audioplay/static/media/logo.5d5d9eef.svg",
+    "static/media/part1.mp3": "/audioplay/static/media/part1.1f62081b.mp3",
+    "static/media/part10.mp3": "/audioplay/static/media/part10.d9f20caa.mp3",
+    "static/media/part2.mp3": "/audioplay/static/media/part2.3097ec02.mp3",
+    "static/media/part3.mp3": "/audioplay/static/media/part3.d9c424af.mp3",
+    "static/media/part4.mp3": "/audioplay/static/media/part4.730a6965.mp3",
+    "static/media/part5.mp3": "/audioplay/static/media/part5.cb710e0b.mp3",
+    "static/media/part6.mp3": "/audioplay/static/media/part6.59773c02.mp3",
+    "static/media/part7.mp3": "/audioplay/static/media/part7.bfc49738.mp3",
+    "static/media/part8.mp3": "/audioplay/static/media/part8.8833d65d.mp3",
+    "static/media/part9.mp3": "/audioplay/static/media/part9.7233439a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87b165a9.js",
+    "static/js/2.83511e14.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5c332ae4.chunk.js"
+  ]
+}
